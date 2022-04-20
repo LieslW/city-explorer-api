@@ -28,6 +28,6 @@ Estimate of time needed to complete: 1 hour
 
 Start time: 5pm  
 
-Finish time: TBD  
+Finish time: 7pm  
 
-Actual time needed to complete: TBD  
+Actual time needed to complete: 2 hours  
