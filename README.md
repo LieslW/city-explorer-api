@@ -3,8 +3,9 @@
 **Author**: Liesl White  
 **Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
 
-## Overview
-<!-- Provide a high level overview of what this application is and why you are building it, beyond the fact that it's an assignment for this class. (i.e. What's your problem domain?) -->
+## Overview  
+
+City Explorer is an interactive application which allows the user to access multiple APIs to explore various cities, the weather there, and famous movies that took place there. It's a helpful and also fun way to help users possible plan for vacation or explore their local cities.  
 
 ## Getting Started
 <!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
@@ -34,7 +35,9 @@ Styling:
 City Icon:  
 [Icon-Icons](https://icon-icons.com/)  
 
-________________________________________________________________________________  
+Deployment:
+[Heroku Deployment](https://devcenter.heroku.com/articles/git)
+______________________________________________________________________________
 
 Name of feature: LocationIQ API and Axios Library  
 
@@ -48,7 +51,7 @@ Actual time needed to complete: A couple days
 
 ![WRCC Day One: Stanley K. Wilder and Simon Son](WRRC/WRRC(1)301d84.png)  
 
-______________________________________________________________________________  
+______________________________________________________________________________
 
 Name of feature: Server and Weather Data  
 
@@ -62,14 +65,44 @@ Actual time needed to complete: TBD
 
 ![WRCC Day Two: Kyle Honaker](WRRC/WRCC(2)301d84.png)  
 
-_____________________________________________________________________________
+______________________________________________________________________________
 
 Name of feature: Movie Api  
 
 Estimate of time needed to complete: 2 1/2 hours
+
+Start Time: TBD
 
 Finish Time: TBD
 
 Actual time needed to complete: TBD  
 
 ![WRCC Day Three: Jason Wilson](WRRC/WRCC(3)301d84.png)  
+
+______________________________________________________________________________
+
+Name of feature: Refactoring
+
+Estimate of time needed to complete: 3 hours
+
+Start Time: TBD
+
+Finish Time: TBD
+
+Actual time needed to complete: TBD
+
+![WRCC Day Four: Raul Zarate](WRCC/WRCC(4)301d84.jpg)  
+
+______________________________________________________________________________
+
+Name of feature: Cache
+
+Estimate of time needed to complete: 3 hours
+
+Start Time: TBD
+
+Finish Time: TBD
+
+Actual time needed to complete: TBD
+
+![WRCC Day Five: Allen Brazier](WRCC/WRCC(5)301d84.jpeg)  
